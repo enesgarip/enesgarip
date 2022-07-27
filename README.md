@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Computer Science and Engineering student pursuing in the <br>field of Software Development. Current college undergraduate with <br>knowledge in Java, C, work ethic and eagerness to learn and enhance <br>professional skills. Also, I am an enthusiastic, self-motivated and<br>reliable person.<br><br>🌱 I am currently learning Java Spring.<br>🔭 I have a list of some technical books to read as a Software Engineer.<br>The Book I am reading is The Pragmatic Programmer by Andrew Hunt, David Thomas.<br>Next one will be: Code Complete by Steve McConnell
+Currently Computer Science and Engineering student pursuing in the <br>field of Software Development. Current college undergraduate with <br>knowledge in Java, C, work ethic and eagerness to learn and enhance <br>professional skills. Also, I am an enthusiastic, self-motivated and<br>reliable person.<br><br>🔭 I have a list of some technical books to read as a Software Engineer.<br>The Book I am reading is Code Complete - A Practical Handbook of Software Construction by Steve McConnell.<br>Next one will be: Clean Code - A Handbook of Agile Software Craftsmanship by Martin, Robert Cecil.
 
 
 ## 🌐 Socials:
